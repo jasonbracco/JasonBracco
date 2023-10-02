@@ -1,5 +1,4 @@
-![Pastel Blue Gradient Personal LinkedIn Banner](https://github.com/jasonbracco/JasonBracco/assets/102670193/debb422e-5aa3-4470-bf6e-7e5ebd72c03a)
-
+![Pastel Blue Gradient Personal LinkedIn Banner](https://github.com/jasonbracco/JasonBracco/assets/102670193/f41ff604-7133-41f0-9bdf-3030d42347ab)
 
 
 **jasonbracco/JasonBracco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
